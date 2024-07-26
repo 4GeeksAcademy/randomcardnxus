@@ -1,1 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.pinta {
+  font-size: 76px;
+}
+
+.value {
+  font-size: 120px;
+}
